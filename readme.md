@@ -33,6 +33,6 @@ There may be gaps in the data. Let me know if you find any.
 To do
 -----
 
-- Recover 2006. - DONE
-- Re-insert day, full-date - DONE
-- Across/Down, Clue Numbers (there were enough discrepancies that made it better to commit than include)
+- [x] Recover 2006.
+- [x] Re-insert day, full-date.
+- [ ] Across/Down, Clue Numbers (there were enough discrepancies that made it better to commit than include)
